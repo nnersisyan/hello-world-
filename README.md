@@ -7,3 +7,4 @@ git config --global core.safecrlf true
 git init 
 git add hello.rb
 git commit -m "First Commit" 
+git status
